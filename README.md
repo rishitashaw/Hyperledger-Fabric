@@ -12,7 +12,7 @@ These instructions will help you get a copy of the project up and running on you
 
 2. For Windows users, it is recommended to set up WSL (Windows Subsystem for Linux) to run this project. Follow the steps below to set up WSL:
 
-- Install WSL: Follow the official Microsoft documentation to install WSL on your Windows machine. You can find more information ![here](https://docs.microsoft.com/en-us/windows/wsl/).
+- Install WSL: Follow the official Microsoft documentation to install WSL on your Windows machine. You can find more information [here](https://docs.microsoft.com/en-us/windows/wsl/).
 
 - Install a Linux distribution: Once WSL is set up, install a Linux distribution of your choice from the Microsoft Store or by following the instructions in the WSL documentation.
 
